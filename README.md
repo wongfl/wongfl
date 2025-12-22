@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello World: Starting a Dev Blog](https://tracywong.dev/posts/my-first-post/)
 <!-- BLOG-POST-LIST:END -->
