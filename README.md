@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently building a startup.
 - 👯 I’m looking to collaborate on all sorts of interesting open source projects.
-- 💬 Ask me about entreperunship. 
+- 💬 Ask me about entrepreneurship.
 
 
 ### Latest Blog Posts
