@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently building a startup.
 - 👯 I’m looking to collaborate on all sorts of interesting open source projects.
+- 📖 I'm learning system design.
 - 💬 Ask me about entrepreneurship.
 
 
